@@ -1,11 +1,9 @@
 ---
-title: "Refatoração de Testes e Detecção de Test Smells"
-subtitle: "Teste de Software"
-author: "Arthur Ferreira Costa"
-registration: "Matrícula: 812076"
-date: "Novembro de 2025"
-geometry: margin=2.5cm
-fontsize: 12pt
+Título: "Refatoração de Testes e Detecção de Test Smells"
+Subtítulo: "Teste de Software"
+Autor: "Arthur Ferreira Costa"
+Matrícula: "812076"
+Data: "Novembro de 2025"
 ---
 
 \newpage
